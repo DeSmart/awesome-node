@@ -1,4 +1,4 @@
-# Awesome React Native
+# Awesome Node
 
 ### Frameworks
 - [Express](https://expressjs.com/) - easy to start with. [Express generator](https://expressjs.com/en/starter/generator.html) will create a scaffolding of your app.
