@@ -15,4 +15,4 @@
 - [nodemon](https://nodemon.io/) - live-reload for node.js
 
 ### Resources
-- [Eric Elliott](https://medium.com/@_ericelliott) - he wrote **a lot** of valuable articles on medium.com
+- [Eric Elliott](https://medium.com/@_ericelliott) - he wrote **a lot** of valuable articles on medium.com (mainly regarding JS, but still very, very useful)
