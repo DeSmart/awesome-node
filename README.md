@@ -16,6 +16,7 @@
 
 ### Packages
 - [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
+- [JWT](https://github.com/auth0/node-jsonwebtoken) - JWT authorization toolset
 
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
