@@ -11,6 +11,9 @@
 - [Getting started](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize) - nice tutorial in which you bundle-up everything, step by step (plus [source code](https://github.com/waiyaki/postgres-express-node-tutorial)).
 - [Model configuration](http://docs.sequelizejs.com/en/latest/docs/models-definition/#configuration) - this can be tricky and frustrating.
 
+### Packages
+- [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
+
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
 
