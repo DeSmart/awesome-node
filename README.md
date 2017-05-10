@@ -6,6 +6,9 @@
 ### ORM
 - [Sequelize](http://docs.sequelizejs.com/en/v3/) - introduces models and migrations but takes time to learn and understand.
 
+### Express
+- [Error handling](https://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/)
+
 ### Express + Sequelize
 - [Beginner's guide](http://mherman.org/blog/2015/10/22/node-postgres-sequelize/) - outdated (2015), but has several valuable insights.
 - [Getting started](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize) - nice tutorial in which you bundle-up everything, step by step (plus [source code](https://github.com/waiyaki/postgres-express-node-tutorial)).
