@@ -18,6 +18,7 @@
 - [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JWT authorization toolset
 - [express-validator](https://github.com/ctavan/express-validator) - input validation
+- [node-uuid](https://github.com/kelektiv/node-uuid) - UUID generation
 
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
