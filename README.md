@@ -15,10 +15,12 @@
 - [Model configuration](http://docs.sequelizejs.com/en/latest/docs/models-definition/#configuration) - this can be tricky and frustrating.
 
 ### Packages
-- [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JWT authorization toolset
 - [express-validator](https://github.com/ctavan/express-validator) - input validation
 - [node-uuid](https://github.com/kelektiv/node-uuid) - UUID generation
+- [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
+- [crypto-js](https://github.com/brix/crypto-js) - hash generation (e.g. SHA256, AES)
+- [nodemailer](https://nodemailer.com/about/) - easy-to-use mailing package
 
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
