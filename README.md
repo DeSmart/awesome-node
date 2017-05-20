@@ -15,12 +15,16 @@
 - [Model configuration](http://docs.sequelizejs.com/en/latest/docs/models-definition/#configuration) - this can be tricky and frustrating.
 
 ### Packages
+- [dotenv](https://github.com/motdotla/dotenv) - .env file support
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JWT authorization toolset
 - [express-validator](https://github.com/ctavan/express-validator) - input validation
 - [node-uuid](https://github.com/kelektiv/node-uuid) - UUID generation
 - [bcrypt](https://www.npmjs.com/package/bcrypt) - bcrypt hasher implementation, useful for password hashing
 - [crypto-js](https://github.com/brix/crypto-js) - hash generation (e.g. SHA256, AES)
 - [nodemailer](https://nodemailer.com/about/) - easy-to-use mailing package
+- [cors](https://github.com/expressjs/cors) - adds CORS support to Express
+- [ejs](https://github.com/mde/ejs) - simple template system
+- [slug](https://github.com/dodo/node-slug) - generate slugs from strings
 
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
