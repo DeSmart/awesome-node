@@ -14,6 +14,9 @@
 - [Getting started](https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize) - nice tutorial in which you bundle-up everything, step by step (plus [source code](https://github.com/waiyaki/postgres-express-node-tutorial)).
 - [Model configuration](http://docs.sequelizejs.com/en/latest/docs/models-definition/#configuration) - this can be tricky and frustrating.
 
+### Sockets
+- [socket.io](https://socket.io/)
+
 ### Packages
 - [dotenv](https://github.com/motdotla/dotenv) - .env file support
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JWT authorization toolset
