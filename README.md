@@ -34,3 +34,4 @@
 
 ### Resources
 - [Eric Elliott](https://medium.com/@_ericelliott) - he wrote **a lot** of valuable articles on medium.com (mainly regarding JS, but still very, very useful)
+- [2FA](https://davidwalsh.name/2fa) - an article by David Walsh about two-factor authentication
