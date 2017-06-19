@@ -8,6 +8,7 @@
 
 ### Express
 - [Error handling](https://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/)
+- [helmet](https://helmetjs.github.io/) - secure Express apps
 
 ### Express + Sequelize
 - [Beginner's guide](http://mherman.org/blog/2015/10/22/node-postgres-sequelize/) - outdated (2015), but has several valuable insights.
