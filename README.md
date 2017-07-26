@@ -2,6 +2,7 @@
 
 ### Frameworks
 - [Express](https://expressjs.com/) - easy to start with. [Express generator](https://expressjs.com/en/starter/generator.html) will create a scaffolding of your app.
+- [Feathersjs](https://feathersjs.com) - open source REST and realtime API layer
 
 ### ORM
 - [Sequelize](http://docs.sequelizejs.com/en/v3/) - introduces models and migrations but takes time to learn and understand.
@@ -29,6 +30,10 @@
 - [cors](https://github.com/expressjs/cors) - adds CORS support to Express
 - [ejs](https://github.com/mde/ejs) - simple template system
 - [slug](https://github.com/dodo/node-slug) - generate slugs from strings
+- [multer](https://github.com/expressjs/multer) - a node.js middleware for handling multipart/form-data, which is primarily used for uploading files
+
+### Documentation
+- [apidoc](https://github.com/apidoc/apidoc) - Inline Documentation for RESTful web APIs - apiDoc creates a documentation from API annotations in your source code
 
 ### Development
 - [nodemon](https://nodemon.io/) - live-reload for node.js
